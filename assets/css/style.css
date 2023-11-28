@@ -286,7 +286,6 @@ img {
     }
     #menu {
         display: flex;
-        align-self: space-between;
     }
 
     #menu > li {
